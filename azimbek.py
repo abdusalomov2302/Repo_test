@@ -1,0 +1,2 @@
+a="ziyocamp"
+print(a)
